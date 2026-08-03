@@ -1,0 +1,16 @@
+# Sample custom Suricata rules used during this project (lab traffic only).
+# Add these to /etc/suricata/rules/local.rules and reference from
+# suricata.yaml's rule-files list.
+
+alert tcp any any -> any any (msg:"CUSTOM Possible SSH brute force attempt"; \
+    flow:to_server; flags:S; threshold:type both, track by_src, count 10, seconds 30; \
+    classtype:attempted-recon; sid:1000001; rev:1;)
+
+alert http any any -> any any (msg:"CUSTOM Suspicious login POST"; \
+    flow:to_server,established; http.method; content:"POST"; \
+    http.uri; content:"login"; nocase; \
+    classtype:web-application-attack; sid:1000002; rev:1;)
+
+alert tcp any any -> any any (msg:"CUSTOM Large outbound transfer (possible exfil)"; \
+    flow:to_server,established; dsize:>50000; \
+    classtype:policy-violation; sid:1000003; rev:1;)

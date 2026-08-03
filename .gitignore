@@ -1,0 +1,44 @@
+# --- Secrets / credentials ---
+*.env
+.env*
+*credentials*
+*secrets*
+*.pem
+*.key
+*.pfx
+id_rsa*
+*.kdbx
+
+# --- Capture files (large / potentially sensitive) ---
+*.pcap
+*.pcapng
+*.cap
+evidence/*.pcap
+evidence/*.pcapng
+!evidence/logs/*.log        # keep sanitized derived logs, not raw captures
+!evidence/logs/*.csv
+
+# --- Virtual environments / dependency clutter ---
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+node_modules/
+.ipynb_checkpoints/
+
+# --- OS / editor clutter ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# --- Tool output that may contain live data ---
+zeek_logs_raw/
+suricata_raw/
+*.log.raw
+
+# --- Report drafts / temp ---
+docs/*.docx#
+~$*.docx
