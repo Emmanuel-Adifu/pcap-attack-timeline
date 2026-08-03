@@ -1,0 +1,11 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	irc
+#open	2026-08-03-04-14-23
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	nick	user	command	value	addl	dcc_file_name	dcc_file_size	dcc_mime_type	fuid
+#types	time	string	addr	port	addr	port	string	string	string	string	string	string	count	string	string
+1785729623.198921	CkBASpNL38ogIFt7c	192.168.50.10	45352	192.168.50.6	6667	-	-	USER	nmap	+iw nmap NmapWuz Here 	-	-	-	-
+1785729623.198921	CkBASpNL38ogIFt7c	192.168.50.10	45352	192.168.50.6	6667	-	nmap	NICK	zvoctrqbq	+iw nmap NmapWuz Here 	-	-	-	-
+#close	2026-08-03-04-14-23

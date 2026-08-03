@@ -1,0 +1,13 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	rfb
+#open	2026-08-03-04-14-23
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	client_major_version	client_minor_version	server_major_version	server_minor_version	authentication_method	auth	share_flag	desktop_name	width	height
+#types	time	string	addr	port	addr	port	string	string	string	string	string	bool	bool	string	count	count
+1785729623.361441	CAGRfw1WIL8zRT7l31	192.168.50.10	33294	192.168.50.6	5900	003	003	003	003	VNC	-	-	-	-	-
+1785729624.359265	Cw4mCX2bkfVnI28Vyg	192.168.50.10	33310	192.168.50.6	5900	003	003	003	003	VNC	-	-	-	-	-
+1785729632.045016	C19G7O3HM5Y0Gjzw02	192.168.50.10	50816	192.168.50.6	5900	003	003	003	003	VNC	-	-	-	-	-
+1785729632.075398	CWNz271rZuvobIiKb7	192.168.50.10	50842	192.168.50.6	5900	003	003	003	003	VNC	-	-	-	-	-
+#close	2026-08-03-04-14-23

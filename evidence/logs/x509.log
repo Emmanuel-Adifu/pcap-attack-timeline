@@ -1,0 +1,10 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	x509
+#open	2026-08-03-04-14-23
+#fields	ts	fingerprint	certificate.version	certificate.serial	certificate.subject	certificate.issuer	certificate.not_valid_before	certificate.not_valid_after	certificate.key_alg	certificate.sig_alg	certificate.key_type	certificate.key_length	certificate.exponent	certificate.curve	san.dns	san.uri	san.email	san.ip	basic_constraints.ca	basic_constraints.path_len	host_cert	client_cert
+#types	time	string	count	string	string	string	time	time	string	string	string	count	string	string	vector[string]	vector[string]	vector[string]	vector[addr]	bool	count	bool	bool
+1785729623.200240	e7a7fa0d63e457c7c4a59b38b70849c6a70bda6f830c7af1e32dee436de813cc	1	FAF93A4C7FB6B9CC	emailAddress=root@ubuntu804-base.localdomain,CN=ubuntu804-base.localdomain,OU=Office for Complication of Otherwise Simple Affairs,O=OCOSA,L=Everywhere,ST=There is no such thing outside US,C=XX	emailAddress=root@ubuntu804-base.localdomain,CN=ubuntu804-base.localdomain,OU=Office for Complication of Otherwise Simple Affairs,O=OCOSA,L=Everywhere,ST=There is no such thing outside US,C=XX	1268834865.000000	1271426865.000000	rsaEncryption	sha1WithRSAEncryption	rsa	1024	65537	-	-	-	-	-	-	-	T	F
+#close	2026-08-03-04-14-23

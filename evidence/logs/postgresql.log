@@ -1,0 +1,14 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	postgresql
+#open	2026-08-03-04-14-23
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	user	database	application_name	frontend	frontend_arg	backend	backend_arg	success	rows
+#types	time	string	addr	port	addr	port	string	string	string	string	string	string	string	bool	count
+1785729623.821696	ChpizQ1aVVeynWXZod	192.168.50.10	42804	192.168.50.6	5432	-	-	-	ssl_request	-	ssl_reply	S	T	-
+1785729631.873035	Cr4h233d8lHOTwJFt6	192.168.50.10	38516	192.168.50.6	5432	-	-	-	ssl_request	-	ssl_reply	S	T	-
+1785729631.915159	Cx6yMOf30IXmlZa26	192.168.50.10	38526	192.168.50.6	5432	-	-	-	ssl_request	-	ssl_reply	S	T	-
+1785729631.946572	CIPavX2kXBBjApXMK8	192.168.50.10	38538	192.168.50.6	5432	-	-	-	ssl_request	-	ssl_reply	S	T	-
+1785729631.958755	Ct7bkc33k2E4Riq84d	192.168.50.10	38554	192.168.50.6	5432	-	-	-	ssl_request	-	ssl_reply	S	T	-
+#close	2026-08-03-04-14-23

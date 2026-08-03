@@ -1,0 +1,107 @@
+08/03/2026-03:58:19.041966  [**] [1:2027397:1] ET INFO Spotify P2P Client [**] [Classification: Not Suspicious Traffic] [Priority: 3] {UDP} 192.168.49.1:57621 -> 192.168.49.255:57621
+08/03/2026-04:00:17.319446  [**] [1:2260002:1] SURICATA Applayer Detect protocol only one direction [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.10:41306 -> 192.168.50.6:5432
+08/03/2026-04:00:22.904837  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:39482 -> 192.168.50.6:80
+08/03/2026-04:00:22.952189  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:39504 -> 192.168.50.6:80
+08/03/2026-04:00:22.952464  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:39448 -> 192.168.50.6:80
+08/03/2026-04:00:22.952951  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:39456 -> 192.168.50.6:80
+08/03/2026-04:00:23.032377  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:39492 -> 192.168.50.6:80
+08/03/2026-04:00:23.040840  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:39528 -> 192.168.50.6:80
+08/03/2026-04:00:23.044433  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:39524 -> 192.168.50.6:80
+08/03/2026-04:00:23.145399  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:42148 -> 192.168.50.6:8180
+08/03/2026-04:00:23.154610  [**] [1:2260002:1] SURICATA Applayer Detect protocol only one direction [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.10:39564 -> 192.168.50.6:80
+08/03/2026-04:00:23.154610  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:39564 -> 192.168.50.6:80
+08/03/2026-04:00:23.200244  [**] [1:2260002:1] SURICATA Applayer Detect protocol only one direction [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.10:38372 -> 192.168.50.6:25
+08/03/2026-04:00:23.202156  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:42156 -> 192.168.50.6:8180
+08/03/2026-04:00:23.203414  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:42168 -> 192.168.50.6:8180
+08/03/2026-04:00:22.901867  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:39442 -> 192.168.50.6:80
+08/03/2026-04:00:22.952464  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:39466 -> 192.168.50.6:80
+08/03/2026-04:00:23.265604  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:39578 -> 192.168.50.6:80
+08/03/2026-04:00:23.306137  [**] [1:2225005:1] SURICATA SMB malformed request dialects [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.10:37076 -> 192.168.50.6:445
+08/03/2026-04:00:23.315037  [**] [1:2225005:1] SURICATA SMB malformed request dialects [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.10:37086 -> 192.168.50.6:445
+08/03/2026-04:00:23.018359  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:39512 -> 192.168.50.6:80
+08/03/2026-04:00:23.046856  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:39522 -> 192.168.50.6:80
+08/03/2026-04:00:23.364312  [**] [1:2260002:1] SURICATA Applayer Detect protocol only one direction [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.10:42212 -> 192.168.50.6:8180
+08/03/2026-04:00:23.364312  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:42212 -> 192.168.50.6:8180
+08/03/2026-04:00:23.366698  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:42226 -> 192.168.50.6:8180
+08/03/2026-04:00:23.368351  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:42230 -> 192.168.50.6:8180
+08/03/2026-04:00:23.375935  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:39594 -> 192.168.50.6:80
+08/03/2026-04:00:23.086319  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:39538 -> 192.168.50.6:80
+08/03/2026-04:00:23.418860  [**] [1:2067085:1] ET INFO NTLM Session Setup Request - Negotiate [**] [Classification: Misc activity] [Priority: 3] {TCP} 192.168.50.10:37076 -> 192.168.50.6:445
+08/03/2026-04:00:23.421855  [**] [1:2067086:1] ET INFO NTLMv1 Session Setup Response - Challenge [**] [Classification: Misc activity] [Priority: 3] {TCP} 192.168.50.6:445 -> 192.168.50.10:37076
+08/03/2026-04:00:23.423983  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:42244 -> 192.168.50.6:8180
+08/03/2026-04:00:23.434314  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:39608 -> 192.168.50.6:80
+08/03/2026-04:00:23.091516  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:39550 -> 192.168.50.6:80
+08/03/2026-04:00:23.107189  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:39556 -> 192.168.50.6:80
+08/03/2026-04:00:23.528548  [**] [1:2067087:1] ET INFO NTLM Session Setup Request - Auth [**] [Classification: Misc activity] [Priority: 3] {TCP} 192.168.50.10:37076 -> 192.168.50.6:445
+08/03/2026-04:00:23.107329  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:39558 -> 192.168.50.6:80
+08/03/2026-04:00:23.533379  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:42252 -> 192.168.50.6:8180
+08/03/2026-04:00:23.143721  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:42144 -> 192.168.50.6:8180
+08/03/2026-04:00:23.588332  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:42260 -> 192.168.50.6:8180
+08/03/2026-04:00:23.590676  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:42274 -> 192.168.50.6:8180
+08/03/2026-04:00:23.205140  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:42180 -> 192.168.50.6:8180
+08/03/2026-04:00:23.205822  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:42196 -> 192.168.50.6:8180
+08/03/2026-04:00:23.642694  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:42278 -> 192.168.50.6:8180
+08/03/2026-04:00:23.315207  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:39584 -> 192.168.50.6:80
+08/03/2026-04:00:23.422000  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:42240 -> 192.168.50.6:8180
+08/03/2026-04:00:23.485417  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:39622 -> 192.168.50.6:80
+08/03/2026-04:00:23.878695  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:42318 -> 192.168.50.6:8180
+08/03/2026-04:00:23.890066  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:39662 -> 192.168.50.6:80
+08/03/2026-04:00:23.937416  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:42332 -> 192.168.50.6:8180
+08/03/2026-04:00:23.588890  [**] [1:2225005:1] SURICATA SMB malformed request dialects [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.10:37094 -> 192.168.50.6:445
+08/03/2026-04:00:23.962201  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:39682 -> 192.168.50.6:80
+08/03/2026-04:00:23.599833  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:39632 -> 192.168.50.6:80
+08/03/2026-04:00:24.104734  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:39696 -> 192.168.50.6:80
+08/03/2026-04:00:23.708675  [**] [1:2260002:1] SURICATA Applayer Detect protocol only one direction [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.6:21 -> 192.168.50.10:58986
+08/03/2026-04:00:24.130525  [**] [1:2260002:1] SURICATA Applayer Detect protocol only one direction [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.10:45352 -> 192.168.50.6:6667
+08/03/2026-04:00:23.738294  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:39638 -> 192.168.50.6:80
+08/03/2026-04:00:23.767663  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:39646 -> 192.168.50.6:80
+08/03/2026-04:00:23.820805  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:42292 -> 192.168.50.6:8180
+08/03/2026-04:00:23.876270  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:42304 -> 192.168.50.6:8180
+08/03/2026-04:00:23.879902  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:42322 -> 192.168.50.6:8180
+08/03/2026-04:00:24.517968  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:42388 -> 192.168.50.6:8180
+08/03/2026-04:00:23.881982  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:39676 -> 192.168.50.6:80
+08/03/2026-04:00:23.991779  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:42340 -> 192.168.50.6:8180
+08/03/2026-04:00:24.728018  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:42398 -> 192.168.50.6:8180
+08/03/2026-04:00:24.041682  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:42342 -> 192.168.50.6:8180
+08/03/2026-04:00:24.096453  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:42356 -> 192.168.50.6:8180
+08/03/2026-04:00:24.147201  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:42368 -> 192.168.50.6:8180
+08/03/2026-04:00:24.199497  [**] [1:2225005:1] SURICATA SMB malformed request dialects [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.10:37104 -> 192.168.50.6:445
+08/03/2026-04:00:24.252636  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:42382 -> 192.168.50.6:8180
+08/03/2026-04:00:24.262086  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:39704 -> 192.168.50.6:80
+08/03/2026-04:00:24.934022  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:42402 -> 192.168.50.6:8180
+08/03/2026-04:00:24.308422  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.50.10:42384 -> 192.168.50.6:8180
+08/03/2026-04:00:25.237553  [**] [1:2225005:1] SURICATA SMB malformed request dialects [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.10:37124 -> 192.168.50.6:445
+08/03/2026-04:00:31.124365  [**] [1:2002023:18] ET CHAT IRC USER command [**] [Classification: Misc activity] [Priority: 3] {TCP} 192.168.50.10:45352 -> 192.168.50.6:6667
+08/03/2026-04:00:31.124365  [**] [1:2002024:21] ET CHAT IRC NICK command [**] [Classification: Misc activity] [Priority: 3] {TCP} 192.168.50.10:45352 -> 192.168.50.6:6667
+08/03/2026-04:00:24.358707  [**] [1:2225005:1] SURICATA SMB malformed request dialects [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.10:37112 -> 192.168.50.6:445
+08/03/2026-04:00:31.979006  [**] [1:2230002:1] SURICATA TLS invalid record type [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.10:48250 -> 192.168.50.6:21
+08/03/2026-04:00:31.979006  [**] [1:2260000:1] SURICATA Applayer Mismatch protocol both directions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.10:48250 -> 192.168.50.6:21
+08/03/2026-04:00:31.979144  [**] [1:2230002:1] SURICATA TLS invalid record type [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.6:21 -> 192.168.50.10:48250
+08/03/2026-04:00:31.986690  [**] [1:2230002:1] SURICATA TLS invalid record type [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.10:48262 -> 192.168.50.6:21
+08/03/2026-04:00:31.986690  [**] [1:2260000:1] SURICATA Applayer Mismatch protocol both directions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.10:48262 -> 192.168.50.6:21
+08/03/2026-04:00:31.988583  [**] [1:2230002:1] SURICATA TLS invalid record type [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.6:21 -> 192.168.50.10:48262
+08/03/2026-04:00:32.018938  [**] [1:2230002:1] SURICATA TLS invalid record type [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.10:48288 -> 192.168.50.6:21
+08/03/2026-04:00:32.018938  [**] [1:2260000:1] SURICATA Applayer Mismatch protocol both directions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.10:48288 -> 192.168.50.6:21
+08/03/2026-04:00:32.021828  [**] [1:2230002:1] SURICATA TLS invalid record type [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.6:21 -> 192.168.50.10:48288
+08/03/2026-04:00:32.062981  [**] [1:2260001:1] SURICATA Applayer Wrong direction first Data [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.6:3306 -> 192.168.50.10:46974
+08/03/2026-04:00:32.079590  [**] [1:2260000:1] SURICATA Applayer Mismatch protocol both directions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.6:5900 -> 192.168.50.10:50848
+08/03/2026-04:00:32.083907  [**] [1:2260000:1] SURICATA Applayer Mismatch protocol both directions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.6:5900 -> 192.168.50.10:50860
+08/03/2026-04:00:32.096975  [**] [1:2230002:1] SURICATA TLS invalid record type [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.10:41074 -> 192.168.50.6:2121
+08/03/2026-04:00:32.096975  [**] [1:2260002:1] SURICATA Applayer Detect protocol only one direction [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.10:41074 -> 192.168.50.6:2121
+08/03/2026-04:00:32.097132  [**] [1:2230002:1] SURICATA TLS invalid record type [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.6:2121 -> 192.168.50.10:41074
+08/03/2026-04:00:32.014197  [**] [1:2230002:1] SURICATA TLS invalid record type [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.10:48278 -> 192.168.50.6:21
+08/03/2026-04:00:32.014197  [**] [1:2260000:1] SURICATA Applayer Mismatch protocol both directions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.10:48278 -> 192.168.50.6:21
+08/03/2026-04:03:37.161178  [**] [1:2027397:1] ET INFO Spotify P2P Client [**] [Classification: Not Suspicious Traffic] [Priority: 3] {UDP} 192.168.49.1:57621 -> 192.168.49.255:57621
+08/03/2026-04:00:32.014198  [**] [1:2230002:1] SURICATA TLS invalid record type [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.6:21 -> 192.168.50.10:48278
+08/03/2026-04:00:32.033689  [**] [1:2230002:1] SURICATA TLS invalid record type [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.10:41052 -> 192.168.50.6:2121
+08/03/2026-04:00:32.033689  [**] [1:2260002:1] SURICATA Applayer Detect protocol only one direction [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.10:41052 -> 192.168.50.6:2121
+08/03/2026-04:00:32.034187  [**] [1:2230002:1] SURICATA TLS invalid record type [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.6:2121 -> 192.168.50.10:41052
+08/03/2026-04:00:32.039530  [**] [1:2230002:1] SURICATA TLS invalid record type [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.10:41058 -> 192.168.50.6:2121
+08/03/2026-04:00:32.039530  [**] [1:2260002:1] SURICATA Applayer Detect protocol only one direction [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.10:41058 -> 192.168.50.6:2121
+08/03/2026-04:09:19.209753  [**] [1:2027397:1] ET INFO Spotify P2P Client [**] [Classification: Not Suspicious Traffic] [Priority: 3] {UDP} 192.168.49.1:57621 -> 192.168.49.255:57621
+08/03/2026-04:00:32.039920  [**] [1:2230002:1] SURICATA TLS invalid record type [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.6:2121 -> 192.168.50.10:41058
+08/03/2026-04:00:32.049200  [**] [1:2260000:1] SURICATA Applayer Mismatch protocol both directions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.6:5900 -> 192.168.50.10:50818
+08/03/2026-04:00:32.053018  [**] [1:2260000:1] SURICATA Applayer Mismatch protocol both directions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.6:5900 -> 192.168.50.10:50834
+08/03/2026-04:00:32.101935  [**] [1:2230002:1] SURICATA TLS invalid record type [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.10:41086 -> 192.168.50.6:2121
+08/03/2026-04:00:32.101935  [**] [1:2260002:1] SURICATA Applayer Detect protocol only one direction [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.10:41086 -> 192.168.50.6:2121
+08/03/2026-04:00:32.102319  [**] [1:2230002:1] SURICATA TLS invalid record type [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.50.6:2121 -> 192.168.50.10:41086

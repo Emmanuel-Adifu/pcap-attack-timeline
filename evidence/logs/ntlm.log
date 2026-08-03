@@ -1,0 +1,13 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	ntlm
+#open	2026-08-03-04-14-23
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	username	hostname	domainname	server_nb_computer_name	server_dns_computer_name	server_tree_name	success
+#types	time	string	addr	port	addr	port	string	string	string	string	string	string	bool
+1785729623.418860	CcBAX5Tuake2hHmw9	192.168.50.10	37076	192.168.50.6	445	guest	nmap	METASPLOITABLE	METASPLOITABLE	metasploitable.localdomain	-	F
+1785729624.306593	CdBDzz2YvxVim2qTQ9	192.168.50.10	37104	192.168.50.6	445	-	nmap	-	METASPLOITABLE	metasploitable.localdomain	-	T
+1785729624.567103	Co6TRD3M9Dbrkxu8Mf	192.168.50.10	37112	192.168.50.6	445	-	nmap	-	METASPLOITABLE	metasploitable.localdomain	-	T
+1785729625.337004	CXyV3z4xKrISqrq67	192.168.50.10	37124	192.168.50.6	445	-	nmap	-	METASPLOITABLE	metasploitable.localdomain	-	T
+#close	2026-08-03-04-14-23

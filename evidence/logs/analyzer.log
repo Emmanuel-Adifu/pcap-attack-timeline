@@ -1,0 +1,17 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	analyzer
+#open	2026-08-03-04-14-23
+#fields	ts	analyzer_kind	analyzer_name	uid	fuid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	failure_reason	failure_data
+#types	time	string	string	string	string	addr	port	addr	port	enum	string	string
+1785729631.978611	protocol	SSL	Ct0kXx4HgS8vL9p3id	-	192.168.50.10	48250	192.168.50.6	21	tcp	Invalid version late in TLS connection. Packet reported version: 12848	-
+1785729631.986687	protocol	SSL	CLm7AGJ6nVakg04M6	-	192.168.50.10	48262	192.168.50.6	21	tcp	Invalid version late in TLS connection. Packet reported version: 12848	-
+1785729632.013841	protocol	SSL	CE0oSczKUl0Zlfop6	-	192.168.50.10	48278	192.168.50.6	21	tcp	Invalid version late in TLS connection. Packet reported version: 12848	-
+1785729632.018703	protocol	SSL	CX5c681HUQDuoewtga	-	192.168.50.10	48288	192.168.50.6	21	tcp	Invalid version late in TLS connection. Packet reported version: 12848	-
+1785729632.033201	protocol	SSL	CvIHUY1S6UM0zI3phl	-	192.168.50.10	41052	192.168.50.6	2121	tcp	Invalid version late in TLS connection. Packet reported version: 12848	-
+1785729632.039463	protocol	SSL	CtJ3pzSdaGwt8vu57	-	192.168.50.10	41058	192.168.50.6	2121	tcp	Invalid version late in TLS connection. Packet reported version: 12848	-
+1785729632.096405	protocol	SSL	Cdzo1N27XVsIei6kBe	-	192.168.50.10	41074	192.168.50.6	2121	tcp	Invalid version late in TLS connection. Packet reported version: 12848	-
+1785729632.101779	protocol	SSL	CVoA0e1zz3VkAk4YG2	-	192.168.50.10	41086	192.168.50.6	2121	tcp	Invalid version late in TLS connection. Packet reported version: 12848	-
+#close	2026-08-03-04-14-23

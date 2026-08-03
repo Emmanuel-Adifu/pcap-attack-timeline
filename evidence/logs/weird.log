@@ -1,0 +1,22 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	weird
+#open	2026-08-03-04-14-23
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	name	addl	notice	peer	source
+#types	time	string	addr	port	addr	port	string	string	bool	string	string
+1785729617.338148	CGIPIPJ8GSUlvrYJ4	192.168.50.10	35472	192.168.50.6	513	invalid_http_09_request_method	OPTIONS	F	zeek	HTTP
+1785729622.958244	CT8ykc1PUUxC66kWbk	192.168.50.10	53662	192.168.50.6	22	SSH_version_mismatch	SSH-2.0-OpenSSH_4.7p1 Debian-8ubuntu1 vs SSH-1.5-NmapNSE_1.0	F	zeek	-
+1785729622.958246	CaVvSy46S1qKooqZh6	192.168.50.10	53646	192.168.50.6	22	SSH_version_mismatch	SSH-2.0-OpenSSH_4.7p1 Debian-8ubuntu1 vs SSH-1.5-Nmap-SSH1-Hostkey	F	zeek	-
+1785729622.959516	CT8ykc1PUUxC66kWbk	192.168.50.10	53662	192.168.50.6	22	SSH_max_packet_length_exceeded	1349676916 > 8388608	F	zeek	SSH
+1785729623.141984	CNslGD0fQkUxWijIl	192.168.50.10	39564	192.168.50.6	80	unknown_HTTP_method	ZZGK	F	zeek	-
+1785729623.363267	C6ci6G1ocYkDZIzBrk	192.168.50.10	42212	192.168.50.6	8180	unknown_HTTP_method	DOQC	F	zeek	-
+1785729631.977661	Ct0kXx4HgS8vL9p3id	192.168.50.10	48250	192.168.50.6	21	NUL_in_line	-	F	zeek	NVT
+1785729631.977661	Ct0kXx4HgS8vL9p3id	192.168.50.10	48250	192.168.50.6	21	line_terminated_with_single_CR	-	F	zeek	NVT
+1785729631.985667	CLm7AGJ6nVakg04M6	192.168.50.10	48262	192.168.50.6	21	NUL_in_line	-	F	zeek	NVT
+1785729632.012000	CE0oSczKUl0Zlfop6	192.168.50.10	48278	192.168.50.6	21	NUL_in_line	-	F	zeek	NVT
+1785729632.012000	CE0oSczKUl0Zlfop6	192.168.50.10	48278	192.168.50.6	21	line_terminated_with_single_CR	-	F	zeek	NVT
+1785729632.017890	CX5c681HUQDuoewtga	192.168.50.10	48288	192.168.50.6	21	NUL_in_line	-	F	zeek	NVT
+1785729632.017890	CX5c681HUQDuoewtga	192.168.50.10	48288	192.168.50.6	21	line_terminated_with_single_CR	-	F	zeek	NVT
+#close	2026-08-03-04-14-23

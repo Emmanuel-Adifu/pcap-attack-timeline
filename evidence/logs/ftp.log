@@ -1,0 +1,12 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	ftp
+#open	2026-08-03-04-14-23
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	user	password	command	arg	mime_type	file_size	reply_code	reply_msg	data_channel.passive	data_channel.orig_h	data_channel.resp_h	data_channel.resp_p	fuid
+#types	time	string	addr	port	addr	port	string	string	string	string	string	count	count	string	bool	addr	addr	port	string
+1785729623.933727	CYh2IsNHMk1yZ5Gr1	192.168.50.10	59002	192.168.50.6	21	anonymous	IEUser@	PORT	10,0,0,1,80,80	-	-	500	Illegal PORT command.	F	192.168.50.6	10.0.0.1	20560	-
+1785729624.199496	CW47MX3zDHggT8Br7k	192.168.50.10	59008	192.168.50.6	21	anonymous	IEUser@	PASV	-	-	-	227	Entering Passive Mode (192,168,50,6,185,52).	T	192.168.50.10	192.168.50.6	47412	-
+1785730211.373559	CXrq5A4wWy2xavWv6d	192.168.50.10	51512	192.168.50.6	21	someuser:)	<hidden>	EPSV	-	-	-	500	OOPS: priv_sock_get_result	-	-	-	-	-
+#close	2026-08-03-04-14-23

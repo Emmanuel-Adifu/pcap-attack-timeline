@@ -1,0 +1,21 @@
+[10491 - Suricata-Main] 2026-08-03 04:16:12 Notice: suricata: This is Suricata version 8.0.3 RELEASE running in USER mode
+[10491 - Suricata-Main] 2026-08-03 04:16:12 Info: cpu: CPUs/cores online: 2
+[10491 - Suricata-Main] 2026-08-03 04:16:12 Info: suricata: Setting engine mode to IDS mode by default
+[10491 - Suricata-Main] 2026-08-03 04:16:12 Info: exception-policy: master exception-policy set to: auto
+[10491 - Suricata-Main] 2026-08-03 04:16:13 Info: suricata: Preparing unexpected signal handling
+[10491 - Suricata-Main] 2026-08-03 04:16:13 Info: logopenfile: fast output device (regular) initialized: fast.log
+[10491 - Suricata-Main] 2026-08-03 04:16:13 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[10491 - Suricata-Main] 2026-08-03 04:16:13 Info: logopenfile: stats output device (regular) initialized: stats.log
+[10491 - Suricata-Main] 2026-08-03 04:16:32 Info: detect: 1 rule files processed. 52155 rules successfully loaded, 0 rules failed, 0 rules skipped
+[10491 - Suricata-Main] 2026-08-03 04:16:32 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[10491 - Suricata-Main] 2026-08-03 04:16:32 Info: detect: 52160 signatures processed. 1291 are IP-only rules, 4510 are inspecting packet payload, 46123 inspect application layer, 110 are decoder event only
+[10491 - Suricata-Main] 2026-08-03 04:16:34 Notice: mpm-hs: Rule group caching - loaded: 117 newly cached: 0 total cacheable: 117
+[10491 - Suricata-Main] 2026-08-03 04:16:34 Info: unix-manager: unix socket '/var/run/suricata/suricata-command.socket'
+[10509 - RX#01] 2026-08-03 04:16:34 Info: pcap: Starting file run for evidence/capture.pcap
+[10509 - RX#01] 2026-08-03 04:16:34 Info: checksum: No packets with invalid checksum, assuming checksum offloading is NOT used
+[10491 - Suricata-Main] 2026-08-03 04:16:34 Notice: threads: Threads created -> RX: 1 W: 2 FM: 1 FR: 1   Engine started.
+[10509 - RX#01] 2026-08-03 04:16:34 Info: pcap: pcap file evidence/capture.pcap end of file reached (pcap err code 0)
+[10491 - Suricata-Main] 2026-08-03 04:16:34 Notice: suricata: Signal Received.  Stopping engine.
+[10491 - Suricata-Main] 2026-08-03 04:16:34 Info: suricata: time elapsed 0.323s
+[10509 - RX#01] 2026-08-03 04:16:34 Notice: pcap: read 1 file, 5454 packets, 769303 bytes
+[10491 - Suricata-Main] 2026-08-03 04:16:34 Info: counters: Alerts: 107

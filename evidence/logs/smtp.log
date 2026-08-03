@@ -1,0 +1,15 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	smtp
+#open	2026-08-03-04-14-23
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	trans_depth	helo	mailfrom	rcptto	date	from	to	cc	reply_to	msg_id	in_reply_to	subject	x_originating_ip	first_received	second_received	last_reply	path	user_agent	tls	fuids
+#types	time	string	addr	port	addr	port	count	string	string	set[string]	string	string	set[string]	set[string]	string	string	string	string	addr	string	string	string	vector[addr]	string	bool	vector[string]
+1785729622.771469	C3m9H21oTsbpNSFZf2	192.168.50.10	38372	192.168.50.6	25	1	nmap.scanme.org	-	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.50.6,192.168.50.10	-	T	(empty)
+1785729622.777281	CsYRAqNvAyvfQ7aO9	192.168.50.10	38382	192.168.50.6	25	1	nmap.scanme.org	-	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.50.6,192.168.50.10	-	T	(empty)
+1785729631.867723	CMwBH45E3l2sXfAz7	192.168.50.10	54254	192.168.50.6	25	1	nmap.scanme.org	-	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.50.6,192.168.50.10	-	T	(empty)
+1785729631.917007	CFkC3P3Or2Emz2Lw76	192.168.50.10	54264	192.168.50.6	25	1	nmap.scanme.org	-	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.50.6,192.168.50.10	-	T	(empty)
+1785729631.960517	C294T24GYm14xe0d04	192.168.50.10	54272	192.168.50.6	25	1	nmap.scanme.org	-	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.50.6,192.168.50.10	-	T	(empty)
+1785729631.967737	CRkJDE4Zp4mZhhSBFh	192.168.50.10	54274	192.168.50.6	25	1	nmap.scanme.org	-	-	-	-	-	-	-	-	-	-	-	-	-	220 2.0.0 Ready to start TLS	192.168.50.6,192.168.50.10	-	T	(empty)
+#close	2026-08-03-04-14-23
