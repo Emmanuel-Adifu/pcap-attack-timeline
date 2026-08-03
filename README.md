@@ -1,9 +1,9 @@
 # Network Packet Capture Analysis — Attack Timeline Reconstruction
 
-**Author:** [Your Full Name]
-**Index Number:** [Your Index Number]
+**Author:** Emmanuel Seyram Adifu
+**Index Number:** FCM.41.018.009.23
 **Track:** Blue Team
-**Course:** [Course Code]
+**Course:** CY376
 
 ## Summary
 
